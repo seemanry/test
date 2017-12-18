@@ -57,6 +57,6 @@ class EnterPoint {
 
         System.out.println("Скалярное произведение векторов");
         System.out.println(ArrayVector.scalarMult(farr,arr));
-        //другие методы
+        //др
     }
 }
