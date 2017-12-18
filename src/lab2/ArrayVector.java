@@ -1,4 +1,10 @@
 package lab2;
 
-public class EQWrEArrayVector {
+public class ArrayVector {
 }
+public class rArrayVector {
+}
+public class eArrayVector {
+}
+
+
