@@ -31,6 +31,12 @@ class EnterPoint {
         System.out.println("Евклидова норма");
         System.out.println(arr.getNorm());
 
+        System.out.println("Минимум вектора");
+        System.out.println(arr.getMin());
+
+        System.out.println("Максимум вектора");
+        System.out.println(arr.getMax());
+
         System.out.println("Умножение вектора на число");
         for (int i = 0; i < farr.getSize(); i++) {
             System.out.print(farr.getElement(i));
