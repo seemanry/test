@@ -130,4 +130,4 @@ public class ArrayVector {
         }
         return res;
     }
-} //конец_тест
+}
